@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(68, 117, 128);
+    max-width: 60%;
+}
+h1{
+    font-size:50px;
+    font-family: monospace;
+    position:absolute; top:30px;left:820px;
+    text-shadow: 5px 2px rgb(163, 237, 247);
+    
+}
+h2{
+    text-shadow: 5px 2px rgb(163, 237, 247);
+    font-size:150px;
+    position:absolute; top:-150px;left:770px;
+    font-family: cursive;
+}
+
+.pugfei{
+    position:relative; top:150px; left: -235px;
+    width:65%;
+    box-shadow: 0px 0 20px black;
+}
+.titulodopug{
+    font-size:60px;
+    position:relative; top: -320px; left: 750px;
+    font-family:serif;
+    text-shadow: 0 0 2px white;
+}
+
+.curiosidades{
+    position:relative; top: -320px; left: 750px;
+    font-size: 25px;
+    font-family:arial;
+}
+.subtitulocuriosi{ 
+    position:relative; top: -650px; left: 750px;
+    font-family:arial;
+}
+.horizontal{
+    position:absolute; left: 0px; top:120px;
+    height:4px;border-width:0;width:100%;color:rgb(68, 117, 128);background-color:rgb(68, 117, 128);;
+    box-shadow: 0 5px 10px black;
+}
+
+.horizontal2{
+    position:absolute; left: 0px; top:600px;
+    height:4px;border-width:0;width:100%;color:rgb(48, 86, 95);background-color:rgb(48, 86, 95);
+    box-shadow: 0 2px px black;
+}
+.pinscherfofo{
+    position:relative; top:610px; left: 150px;
+    width:20%;
+    box-shadow: 0px 0 20px black;
+}
+
+.titulodopinscher{
+    font-size:60px;
+    position:relative; top: -150px; left: 400px;
+    font-family:serif;
+    text-shadow: 0 0 2px white;
+}
+
+.curiosidades2{
+    position:relative; top: -20px; left: 750px;
+    font-size: 25px;
+    font-family:arial;}
